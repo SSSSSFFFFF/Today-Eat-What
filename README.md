@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Todat-Eat-What
 手动添加删除想吃的东西列表，点击随机按钮决定你想吃什么。 vue-cli,mongodb,element-ui
 =======
@@ -29,4 +28,3 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
->>>>>>> first commit
